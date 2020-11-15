@@ -8,7 +8,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "sh script.bash"
+      "pre-commit": "bash precommit.sh"
     }
   },
   "keywords": [],
