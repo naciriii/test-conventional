@@ -8,8 +8,8 @@
   },
   "husky": {
     "hooks": {
-    "pre-commit":"sh script.bash"
-    }
+      "pre-commit": "npm test"
+      }
 
   },
   "keywords": [],
